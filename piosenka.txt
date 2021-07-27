@@ -1,7 +1,7 @@
-zwrotka1
+zwrotka1.txt
 
-refren1
+refren.txt
 
-zwrotka2
+zwrotka2.txt
 
-refren2
+refren.txt
